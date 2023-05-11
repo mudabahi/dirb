@@ -1,6 +1,8 @@
 
 .bash_history
 .bashrc
+.git
+.git
 .cache
 .config
 .cvs
